@@ -279,9 +279,3 @@ jQuery(document).ready(function ($) {
     )
   }
 })
-
-
-
-
-
-
